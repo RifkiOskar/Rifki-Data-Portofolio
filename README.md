@@ -1,7 +1,7 @@
 # **Project Portfolio**
 
 ## **Python**
-### 📂 Predict Clicked Ads Customer Classification
+### 📂 Should This Loan be Approved or Denied?
 *Final Project by Rakamin Academy | Team | [**Full Documentation**](https://github.com/RifkiOskar/Jupython) | [**Notebook**](https://github.com/RifkiOskar/Jupython/blob/master/Stage3_Jupython.ipynb)*<br>
 <br>
 
