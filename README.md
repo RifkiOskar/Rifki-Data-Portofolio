@@ -11,7 +11,7 @@ Berhasil membuat model machine learning, khususnya model XGBoost, dengan Akurasi
 <br>
 
 ⚙️ **Library** — Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn <br>
-💻 **Area** — Classification, Data Cleaning and Manipulation, Exploratory Data Analysis, Correlation Analysis, Feature Engineering, Data Modeling, Model Evaluation<br>
+💻 **Area** — Exploratory Data Analysis, Data Preprocessing, Feature Encoding, Feature Engineering, Feature Transformation, Data Modeling, Model Evaluation.<br>
 <br>
 <br>
 
